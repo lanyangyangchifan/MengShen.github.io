@@ -1,4 +1,4 @@
-# Welcome to Jekyll!1
+# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -47,7 +47,6 @@ author:
   github           : "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
-
 
   # Social media
   bluesky          : "bsky.app" # Replace this with you Bluesky username
